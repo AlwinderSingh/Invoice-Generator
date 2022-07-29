@@ -12,4 +12,5 @@ This project aims to ease out the billing process of a firm by automating the ba
  Front-End GUI part is devloped using Tkinter via Python.
 
 
-## Use Case
+## Use Case Diagram
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/100020772/181682247-eae8c1d3-e78e-40e8-b362-16b22c692d42.png)
