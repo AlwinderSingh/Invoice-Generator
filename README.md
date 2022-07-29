@@ -13,4 +13,5 @@ This project aims to ease out the billing process of a firm by automating the ba
 
 
 ## Use Case Diagram
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/100020772/181682247-eae8c1d3-e78e-40e8-b362-16b22c692d42.png)
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/100020772/181682970-d3c76950-1ba4-431e-837c-34198a8efcaa.png)
+
